@@ -1,0 +1,13 @@
+KIND:       Pod
+VERSION:    v1
+
+FIELD: labels <map[string]string>
+
+
+DESCRIPTION:
+    Map of string keys and values that can be used to organize and categorize
+    (scope and select) objects. May match selectors of replication controllers
+    and services. More info:
+    https://kubernetes.io/docs/concepts/overview/working-with-objects/labels
+    
+
